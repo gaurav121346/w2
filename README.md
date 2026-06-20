@@ -1,2 +1,2 @@
 # w2
-workspace 4
+workspace 2
